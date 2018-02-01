@@ -278,7 +278,7 @@ Search for items based on values within any of the fields outlined in the "searc
 </ul>
 <b>Optional Parameters:</b>
 <ul>
-<li>limit: The maximum number of items returned by the search.</li>
+<li>limit: The maximum number of items returned by the search (not more than 25 items will be returned ever).</li>
 <li>offset: The number of items that should be skipped.</li>
 </ul>
 <b>URL:</b>
